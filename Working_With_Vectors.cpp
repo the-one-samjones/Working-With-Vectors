@@ -1,21 +1,3 @@
-//Create a program that declares and modifies an array
-//Declares and manipulates a vector
-//Demonstrates at least three common vector functions
-
-//Part 1: 
-//Declare integer array of size 5, and initialize with values of choice
-//Pring original array elements
-//Modify at least two elements in the array
-//Print updated array elements
-
-//Part 2: 
-//Declare vector of integers init with 3 values
-//Print OG vector elements
-//Use 3 vector functions to modify vector
-//Print updated vector after each operations
-//Print final vector elements
-
-
 #include <iostream> 
 #include <vector> 
 #include <string>
